@@ -1,0 +1,8 @@
+my/app/Application.java
+ my.app.Application
+my/app/LauncherActivity.java
+ my.app.LauncherActivity
+my/app/BuildConfig.java
+ my.app.BuildConfig
+my/app/DelegationService.java
+ my.app.DelegationService
